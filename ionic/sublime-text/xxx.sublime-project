@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jli/Documents/xxx",
+			"folder_exclude_patterns": ["node_modules", "platforms", "plugins"]
+		}
+	]
+}
